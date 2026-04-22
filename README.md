@@ -28,10 +28,12 @@ Tools Used
 - Most content targets adult audiences  
 ---
 Dashboard Preview
-<img width="1201" height="703" alt="WhatsApp Image 2026-04-22 at 03 53 51 (2)" src="https://github.com/user-attachments/assets/d6b096e9-e3da-4680-a97a-3ad139c1f37d" />
-<img width="1195" height="679" alt="WhatsApp Image 2026-04-22 at 03 53 51 (1)" src="https://github.com/user-attachments/assets/be4cd713-d1fc-4d71-b113-a62f47bb56b0" />
-<img width="1184" height="696" alt="WhatsApp Image 2026-04-22 at 03 53 51" src="https://github.com/user-attachments/assets/36b43819-5664-4de9-86c3-60793624a390" />
-
+<img width="800" height="703" alt="WhatsApp Image 2026-04-22 at 03 53 51 (2)" src="https://github.com/user-attachments/assets/d6b096e9-e3da-4680-a97a-3ad139c1f37d" />
+---
+<img width="800" height="679" alt="WhatsApp Image 2026-04-22 at 03 53 51 (1)" src="https://github.com/user-attachments/assets/be4cd713-d1fc-4d71-b113-a62f47bb56b0" />
+---
+<img width="800" height="696" alt="WhatsApp Image 2026-04-22 at 03 53 51" src="https://github.com/user-attachments/assets/36b43819-5664-4de9-86c3-60793624a390" />
+---
 
 
 Conclusion
