@@ -57,7 +57,7 @@ This project analyzes and visualizes Netflix content to uncover key trends and i
 
 ---
 ### 🟢 ToolTip Page
-<img width="7" height="336" alt="WhatsApp Image 2026-04-22 at 18 32 22" src="https://github.com/user-attachments/assets/5f70138e-6195-4240-a72c-a9457d28d9a4" />
+<img width="700" height="600" alt="WhatsApp Image 2026-04-22 at 18 32 22" src="https://github.com/user-attachments/assets/5f70138e-6195-4240-a72c-a9457d28d9a4" />
 
 
 ---
