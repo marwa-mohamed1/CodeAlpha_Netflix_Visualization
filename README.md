@@ -1,10 +1,11 @@
 Netflix Data Analysis & Visualization
 
 Project Overview
-Netflix focuses more on movies than TV shows, indicating a strong preference for movie production.
-The platform has experienced significant growth over the years, especially after 2015, 
-reflecting rapid expansion. The United States leads content production, while other countries are gradually 
-contributing more. Additionally, most content targets mature audiences, as shown by the dominance of TV-MA and TV-14 ratings.
+1-Netflix focuses more on movies than TV shows
+2-indicating a strong preference for movie production.
+3-The platform has experienced significant growth over the years, especially after 2015, reflecting rapid expansion.
+4-The United States leads content production, while other countries are gradually contributing more.
+5-Additionally, most content targets mature audiences, as shown by the dominance of TV-MA and TV-14 ratings.
 
 ---
 
